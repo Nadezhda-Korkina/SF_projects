@@ -1,10 +1,10 @@
 # Проект: Анализ резюме с hh.ru
 ## Оглавление  
-[1. Описание проекта](https://github.com/Nadya-Korkina/SF_projects/tree/main/project_1)  
+[1. Описание проекта](https://github.com/Nadezhda-Korkina/SF_projects/tree/main?tab=readme-ov-file#%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D1%8B)  
 [2. Ссылка на данные ](https://drive.google.com/drive/folders/1NY6j4NKp2Lme5cwq3PguQ9tCILli6JkE?usp=sharing)  
-[3. Этапы работы](https://github.com/Nadya-Korkina/SF_projects/tree/main/project_1#Этапы-работы)  
-[4. Метрики качества](https://github.com/Nadya-Korkina/SF_projects/tree/main/project_1#Метрика-качества)  
-[5. Результаты](https://github.com/Nadya-Korkina/SF_projects/tree/main/project_1#Результаты)    
+[3. Этапы работы](https://github.com/Nadezhda-Korkina/SF_projects/tree/main?tab=readme-ov-file#%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D1%8B)  
+[4. Метрики качества](https://github.com/Nadezhda-Korkina/SF_projects/tree/main?tab=readme-ov-file#%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D1%8B)  
+[5. Результаты](https://github.com/Nadezhda-Korkina/SF_projects/tree/main?tab=readme-ov-file#%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D1%8B)    
 
 ### Описание проекта    
 Компании HeadHunter нужно построить модель, которая бы автоматически определяла примерный уровень заработной платы, подходящей пользователю, исходя из информации, которую он указал о себе. 
@@ -15,7 +15,7 @@
     3. Разведывательный анализ
     4. Очистка данных
 
-**Метрики качества**     
+### Метрики качества    
 В результате работы должны остаться данные, необходимые для построения модели. Данные должны быть качественными, соотносимыми, представленными в единой валюте.
 
 **Что практикуем**     
